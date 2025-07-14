@@ -24,4 +24,4 @@ A beautifully crafted Jetpack Compose Quotes App that showcases inspirational qu
 📥 WorkManager for background syncing
 🧪 ViewModel + StateFlow for state management
 🗺️ Navigation-Compose for screen transitions
-🔧 **Hilt** for dependency injection
+🔧 **Koin** for dependency injection

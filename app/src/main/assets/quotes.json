@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "likes": 10,
+    "isFavorite": false,
+    "backgroundId": 0
+  },
+  {
+    "id": "2",
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "likes": 5,
+    "isFavorite": true,
+    "backgroundId": 1
+  },
+  {
+    "id": "3",
+    "quote": "I'm not arguing, I'm just explaining why I'm right.",
+    "author": "Anonymous",
+    "likes": 12,
+    "isFavorite": false,
+    "backgroundId": 2
+  },
+  {
+    "id": "4",
+    "quote": "I’m on a seafood diet. I see food and I eat it.",
+    "author": "Anonymous",
+    "likes": 8,
+    "isFavorite": false,
+    "backgroundId": 3
+  },
+  {
+    "id": "5",
+    "quote": "My bed is a magical place where I suddenly remember everything I forgot to do.",
+    "author": "Anonymous",
+    "likes": 15,
+    "isFavorite": true,
+    "backgroundId": 4
+  },
+  {
+    "id": "6",
+    "quote": "I'm not lazy, I'm on energy-saving mode.",
+    "author": "Anonymous",
+    "likes": 18,
+    "isFavorite": false,
+    "backgroundId": 5
+  },
+  {
+    "id": "7",
+    "quote": "I used to think I was indecisive, but now I'm not too sure.",
+    "author": "Anonymous",
+    "likes": 11,
+    "isFavorite": false,
+    "backgroundId": 6
+  },
+  {
+    "id": "8",
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Anonymous",
+    "likes": 22,
+    "isFavorite": true,
+    "backgroundId": 7
+  },
+  {
+    "id": "9",
+    "quote": "If you think nobody cares if you're alive, try missing a couple of payments.",
+    "author": "Earl Wilson",
+    "likes": 14,
+    "isFavorite": false,
+    "backgroundId": 8
+  },
+  {
+    "id": "10",
+    "quote": "Some people graduate with honors, I am just honored to graduate.",
+    "author": "Mr. Bean",
+    "likes": 19,
+    "isFavorite": true,
+    "backgroundId": 9
+  },
+  {
+    "id": "11",
+    "quote": "My wallet is like an onion. Opening it makes me cry.",
+    "author": "Anonymous",
+    "likes": 17,
+    "isFavorite": false,
+    "backgroundId": 10
+  },
+  {
+    "id": "12",
+    "quote": "Common sense is like deodorant. The people who need it most never use it.",
+    "author": "Anonymous",
+    "likes": 25,
+    "isFavorite": true,
+    "backgroundId": 11
+  },
+  {
+    "id": "13",
+    "quote": "Why do they allow ‘silent’ and ‘listen’ to have the same letters? Suspicious.",
+    "author": "Anonymous",
+    "likes": 13,
+    "isFavorite": false,
+    "backgroundId": 12
+  },
+  {
+    "id": "14",
+    "quote": "My favorite exercise is a cross between a lunge and a crunch. I call it lunch.",
+    "author": "Anonymous",
+    "likes": 21,
+    "isFavorite": false,
+    "backgroundId": 13
+  },
+  {
+    "id": "15",
+    "quote": "I followed my heart… it led me to the fridge.",
+    "author": "Anonymous",
+    "likes": 16,
+    "isFavorite": false,
+    "backgroundId": 14
+  },
+  {
+    "id": "16",
+    "quote": "Don’t worry if plan A doesn’t work out. There are 25 more letters.",
+    "author": "Anonymous",
+    "likes": 20,
+    "isFavorite": false,
+    "backgroundId": 15
+  },
+  {
+    "id": "17",
+    "quote": "If we’re not meant to have midnight snacks, why is there a light in the fridge?",
+    "author": "Anonymous",
+    "likes": 22,
+    "isFavorite": true,
+    "backgroundId": 16
+  },
+  {
+    "id": "18",
+    "quote": "I'm not great at the advice. Can I interest you in a sarcastic comment?",
+    "author": "Chandler Bing",
+    "likes": 24,
+    "isFavorite": true,
+    "backgroundId": 17
+  },
+  {
+    "id": "19",
+    "quote": "If you can’t remember my name, just say ‘donuts’ and I’ll turn around.",
+    "author": "Anonymous",
+    "likes": 9,
+    "isFavorite": false,
+    "backgroundId": 18
+  },
+  {
+    "id": "20",
+    "quote": "The early bird can have the worm. I’ll sleep in and have pancakes.",
+    "author": "Anonymous",
+    "likes": 13,
+    "isFavorite": false,
+    "backgroundId": 19
+  },
+  {
+    "id": "21",
+    "quote": "If at first you don’t succeed, then skydiving definitely isn’t for you.",
+    "author": "Steven Wright",
+    "likes": 17,
+    "isFavorite": false,
+    "backgroundId": 0
+  },
+  {
+    "id": "22",
+    "quote": "A balanced diet means a cupcake in each hand.",
+    "author": "Anonymous",
+    "likes": 23,
+    "isFavorite": true,
+    "backgroundId": 1
+  },
+  {
+    "id": "23",
+    "quote": "The best way to teach your kids about taxes is by eating 30% of their ice cream.",
+    "author": "Bill Murray",
+    "likes": 28,
+    "isFavorite": false,
+    "backgroundId": 2
+  },
+  {
+    "id": "24",
+    "quote": "I dream of a better world where chickens can cross the road without being questioned.",
+    "author": "Anonymous",
+    "likes": 19,
+    "isFavorite": true,
+    "backgroundId": 3
+  },
+  {
+    "id": "25",
+    "quote": "If life gives you melons, you might be dyslexic.",
+    "author": "Anonymous",
+    "likes": 15,
+    "isFavorite": false,
+    "backgroundId": 4
+  },
+  {
+    "id": "26",
+    "quote": "I'm not short, I'm concentrated awesome.",
+    "author": "Anonymous",
+    "likes": 20,
+    "isFavorite": false,
+    "backgroundId": 5
+  },
+  {
+    "id": "27",
+    "quote": "I could agree with you, but then we’d both be wrong.",
+    "author": "Russell Lynes",
+    "likes": 18,
+    "isFavorite": true,
+    "backgroundId": 6
+  },
+  {
+    "id": "28",
+    "quote": "Never trust math. It’s always plotting something.",
+    "author": "Anonymous",
+    "likes": 11,
+    "isFavorite": false,
+    "backgroundId": 7
+  },
+  {
+    "id": "29",
+    "quote": "People say nothing is impossible, but I do nothing every day.",
+    "author": "Winnie the Pooh",
+    "likes": 24,
+    "isFavorite": true,
+    "backgroundId": 8
+  },
+  {
+    "id": "30",
+    "quote": "I’m on a 30-day diet. So far, I’ve lost 15 days.",
+    "author": "Anonymous",
+    "likes": 16,
+    "isFavorite": false,
+    "backgroundId": 9
+  },
+  {
+    "id": "31",
+    "quote": "Why fall in love when you can fall asleep?",
+    "author": "Anonymous",
+    "likes": 20,
+    "isFavorite": true,
+    "backgroundId": 10
+  },
+  {
+    "id": "32",
+    "quote": "Some people just have a way with words, and other people… oh… not have way.",
+    "author": "Steve Martin",
+    "likes": 14,
+    "isFavorite": false,
+    "backgroundId": 11
+  },
+  {
+    "id": "33",
+    "quote": "I'm multitasking: I can listen, ignore and forget at the same time.",
+    "author": "Anonymous",
+    "likes": 22,
+    "isFavorite": false,
+    "backgroundId": 12
+  },
+  {
+    "id": "34",
+    "quote": "It’s okay if you don’t like me. Not everyone has good taste.",
+    "author": "Anonymous",
+    "likes": 19,
+    "isFavorite": true,
+    "backgroundId": 13
+  },
+  {
+    "id": "35",
+    "quote": "Some minds are like concrete—thoroughly mixed up and permanently set.",
+    "author": "Anonymous",
+    "likes": 12,
+    "isFavorite": false,
+    "backgroundId": 14
+  },
+  {
+    "id": "36",
+    "quote": "I don’t need a hair stylist, my pillow gives me a new hairstyle every morning.",
+    "author": "Anonymous",
+    "likes": 17,
+    "isFavorite": false,
+    "backgroundId": 15
+  },
+  {
+    "id": "37",
+    "quote": "I'm reading a book on anti-gravity. It's impossible to put down!",
+    "author": "Anonymous",
+    "likes": 21,
+    "isFavorite": true,
+    "backgroundId": 16
+  },
+  {
+    "id": "38",
+    "quote": "Don’t give up on your dreams so soon… Sleep longer.",
+    "author": "Anonymous",
+    "likes": 14,
+    "isFavorite": false,
+    "backgroundId": 17
+  },
+  {
+    "id": "39",
+    "quote": "When nothing goes right, go left.",
+    "author": "Anonymous",
+    "likes": 13,
+    "isFavorite": false,
+    "backgroundId": 18
+  },
+  {
+    "id": "40",
+    "quote": "Some people graduate with honors, I am just honored to graduate.",
+    "author": "Mr. Bean",
+    "likes": 18,
+    "isFavorite": true,
+    "backgroundId": 19
+  },
+  {
+    "id": "41",
+    "quote": "Monday is proof that we survived the weekend.",
+    "author": "Anonymous",
+    "likes": 17,
+    "isFavorite": false,
+    "backgroundId": 0
+  },
+  {
+    "id": "42",
+    "quote": "My life feels like a test I didn’t study for.",
+    "author": "Anonymous",
+    "likes": 19,
+    "isFavorite": true,
+    "backgroundId": 1
+  },
+  {
+    "id": "43",
+    "quote": "If I were a superhero, my power would be napping anywhere, anytime.",
+    "author": "Anonymous",
+    "likes": 16,
+    "isFavorite": false,
+    "backgroundId": 2
+  },
+  {
+    "id": "44",
+    "quote": "I tried to be normal once. Worst two minutes ever.",
+    "author": "Anonymous",
+    "likes": 22,
+    "isFavorite": true,
+    "backgroundId": 3
+  },
+  {
+    "id": "45",
+    "quote": "My brain has too many tabs open.",
+    "author": "Anonymous",
+    "likes": 15,
+    "isFavorite": false,
+    "backgroundId": 4
+  },
+  {
+    "id": "46",
+    "quote": "Dear Math, I’m not a therapist. Solve your own problems.",
+    "author": "Anonymous",
+    "likes": 18,
+    "isFavorite": true,
+    "backgroundId": 5
+  },
+  {
+    "id": "47",
+    "quote": "Sometimes I shock myself with the smart stuff I say. Other times, I try to get out of the car with the seatbelt on.",
+    "author": "Anonymous",
+    "likes": 14,
+    "isFavorite": false,
+    "backgroundId": 6
+  },
+  {
+    "id": "48",
+    "quote": "Sarcasm: because beating people up is illegal.",
+    "author": "Anonymous",
+    "likes": 25,
+    "isFavorite": true,
+    "backgroundId": 7
+  },
+  {
+    "id": "49",
+    "quote": "Taking naps sounds childish. I prefer to call them ‘horizontal life pauses’.",
+    "author": "Anonymous",
+    "likes": 20,
+    "isFavorite": false,
+    "backgroundId": 8
+  },
+  {
+    "id": "50",
+    "quote": "I’m not weird. I’m a limited edition.",
+    "author": "Anonymous",
+    "likes": 23,
+    "isFavorite": true,
+    "backgroundId": 9
+  }
+]
