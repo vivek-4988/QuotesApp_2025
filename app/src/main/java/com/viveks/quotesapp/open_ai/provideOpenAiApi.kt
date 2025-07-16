@@ -20,7 +20,7 @@ fun provideOpenAiApi(): OpenAiApiService {
         .addInterceptor(logging)
         .addInterceptor { chain ->
             val request = chain.request().newBuilder()
-                .addHeader("Authorization", "Bearer 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")
+                .addHeader("Authorization", "Bearer")
                 .build()
             chain.proceed(request)
         }
